@@ -6,6 +6,6 @@ public class Student {
         System.out.println(" meraba2 " );
         System.out.println("2 task yapildii");
         System.out.println("canlar selam");
-
+        System.out.println("hersey yonludami");
     }
 }
